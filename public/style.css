@@ -1,0 +1,74 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+  background-color:white;
+}
+
+#table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: block;
+}
+
+h1 {
+  font-weight: bold;
+  color: #070707;
+  font-family: Georgia, serif;
+}
+
+.nav-wrapper {
+  background-color: #3F403F;
+  
+}
+
+.nav-wrapper a {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.nav-wrapper a.brand-logo {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#russell {
+  background-color:#FFF8F0;
+}
+
+.pig img {
+  height: 300px;
+  width: 300px; 
+}
+
+
+#shonne {
+  font-family: helvetica, arial, sans-serif;
+  background-color:#80CED7;
+  color: white ;
+    font-weight: bold;
+  font-size: 28px;
+}
+
+div .card-content {
+  color: black; 
+}
+
+#ling {
+  font-family: helvetica, arial, sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+  color:#def8fc;
+}
+
+p{
+  font-size: 25px;
+  
+}
+
+money{ 
+  width: 550px
+  
+}
+
